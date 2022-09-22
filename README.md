@@ -17,7 +17,7 @@ Interface do usuário.
 
 <p align="center">
   <kbd>
- <img width="800" style="border-radius: 10px" height="400" src="https://github.com/JuanCampbsi/GitHubExplorerQuery/blob/ae5fadc32e3fea2c6eb78606db2cfacd4401b4c0/src/assets/preview.gif" alt="Intro">
+ <img width="auto" style="border-radius: 10px" height="auto" src="https://github.com/JuanCampbsi/GitHubExplorerQuery/blob/ae5fadc32e3fea2c6eb78606db2cfacd4401b4c0/src/assets/preview.gif" alt="Intro">
   </kbd>
   </br>
 </p>
